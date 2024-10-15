@@ -42,6 +42,8 @@ The **discriminator** follows a VGG-like architecture to classify real vs. fake 
 - Uses **nearest-neighbor upsampling** instead of the traditional **pixel shuffle**.
 - Includes adjustable scale factors for **flexible resolution scaling**.
 
+![ESRGAN](https://github.com/user-attachments/assets/23e6ec96-ac66-40e5-a363-6d6bc288a882)
+
 ---
 
 ## 📦 Pre-Trained Weights
