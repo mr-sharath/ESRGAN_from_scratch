@@ -84,10 +84,10 @@ python train.py --epochs 100 --batch_size 16
 ```
 
 ### Testing:
-Test your model on new images using `test.py`. You can input low-resolution images, and the model will upscale them.
+Test your model on new images using `train.py`. You can input low-resolution images, and the model will upscale them.
 
 ```bash
-python test.py --input test_images/low_res_image.png --output saved/high_res_image.png
+python train.py --input test_images/low_res_image.png --output saved/high_res_image.png
 ```
 
 ### Model Summary:
